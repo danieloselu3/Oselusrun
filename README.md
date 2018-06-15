@@ -1,2 +1,2 @@
 # Oselusrun
-oselu test rune
+oselu test run
